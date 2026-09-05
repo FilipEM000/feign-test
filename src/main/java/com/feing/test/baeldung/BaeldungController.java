@@ -1,4 +1,4 @@
-package com.feing.test;
+package com.feing.test.baeldung;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
