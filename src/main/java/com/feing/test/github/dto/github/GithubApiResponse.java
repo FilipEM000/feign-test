@@ -1,8 +1,8 @@
-package com.feing.test.github;
+package com.feing.test.github.dto.github;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-public record RepositorySummaryResponse(
+public record GithubApiResponse(
         @JsonProperty("full_name") String fullName,
         String description,
         @JsonProperty("clone_url") String cloneUrl,
