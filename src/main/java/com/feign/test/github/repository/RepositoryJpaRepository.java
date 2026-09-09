@@ -1,6 +1,6 @@
-package com.feing.test.github.repository;
+package com.feign.test.github.repository;
 
-import com.feing.test.github.model.Repository;
+import com.feign.test.github.model.Repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
