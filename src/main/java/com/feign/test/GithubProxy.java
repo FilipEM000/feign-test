@@ -1,4 +1,4 @@
-package com.feing.test;
+package com.feign.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
